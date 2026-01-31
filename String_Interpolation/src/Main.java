@@ -26,6 +26,8 @@ public class Main {
         //echo "{$_POST['username']}"; PHP
         //document.write($"<h2>username</h2>"); in order to display though on the console we must do this console.log($"username"); JS
         //print(str(name)) Python
+        //In Python there is also the f string, which goes like this print(f"Hello there {name}")
+        //The first method in Python was more of a type casting rather than string interpolation but everyone can use whatever he or she likes.
 
         //And so in order to actually sort a list of strings is very easy
 
